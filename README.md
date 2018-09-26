@@ -1,0 +1,1 @@
+# garminplugincompare
